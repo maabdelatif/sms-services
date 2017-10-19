@@ -2,8 +2,6 @@ package com.abdelama.sms;
 
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.nio.CharBuffer;
-import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Collection;
@@ -304,8 +302,6 @@ public class ExtendedChars {
 	/**
 	 * Sets global SMPP library debug and event objects. Runs the application.
 	 * 
-	 * @see SmppObject#setDebug(Debug)
-	 * @see SmppObject#setEvent(Event)
 	 */
 	public static void main(String args[]) {
 		// Parse the command line

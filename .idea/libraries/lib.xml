@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opensmpp-charset-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opensmpp-client-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opensmpp-core-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opensmpp-sim-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
